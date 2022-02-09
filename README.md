@@ -1,5 +1,5 @@
-Java dili kullanılarak yazılmıştır
+Written with Java
 
-Eclipse ve Netbeans idelerinde çalıştırılması tavsiye edilir
+Eclipse and Netbeans ides are recomended
 
-kargoDagitimSistemi/src/yazlab1beta1/ui/FrmMenu.java 92. satırda simpleMap.html dosyasının konumunu kendi bilgisayarınıza göre ayarlayınız
+kargoDagitimSistemi/src/yazlab1beta1/ui/FrmMenu.java on line 92, set the location of the simpleMap.html file according to your computer.
